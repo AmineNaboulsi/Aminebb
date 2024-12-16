@@ -109,7 +109,7 @@ function App() {
             <ul className="list-disc pl-5">
               <li><span className="text-sm">The API key.</span></li>
             </ul>
-            <span className="text-lg">img (required)</span>
+            <span className="text-lg">imgbase64 (required)</span>
             <ul className="list-disc pl-5">
               <li>
                 <span className="text-sm">A binary file, base64 data, or a URL for an image. (up to 32 MB)</span>
